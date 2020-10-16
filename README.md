@@ -3,8 +3,8 @@
 <p> IBM Cognos project(only screenshots and dataset) on analysis of olympic games </p> <br>
 
 <p> Since IBM Cognos analytics have upgraded its terms, the actual implementation is no longer available <br>
-<h2> Dataset link </h2> : https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results </br>
-Contributors :
+<p> Dataset: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results </br>
+Contributors : 
 <ul>
   <li> Prakhar Kopergaonkar https://github.com/PrakharKopergaonkar/ </li>
   <li> Melvin Mathew https://github.com/melvinmsm </li>
@@ -12,3 +12,4 @@ Contributors :
   <li> Swarit Wadhe https://github.com/iswarit </li>
   <li> Harsh Gupta </li>
  </li>
+</p>
